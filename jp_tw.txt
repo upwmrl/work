@@ -1,0 +1,85 @@
+NHK Education,http://203.162.235.41:16901
+NHK World,http://203.162.235.41:16902
+NHK General,http://203.162.235.41:16903
+FUJI TV,http://203.162.235.41:16904
+Nippon TV,http://203.162.235.41:16905
+TV Asahi,http://203.162.235.41:16906
+TBS,http://203.162.235.41:16907
+TV Tokyo,http://203.162.235.41:16908
+NHK BS1,http://203.162.235.41:16909
+NHK BSP,http://203.162.235.41:16910
+BS Fuji,http://203.162.235.41:16911
+BS QVC,http://203.162.235.41:16912
+BS TBS,http://203.162.235.41:16913
+BS Asahi,http://203.162.235.41:16914
+BS Tokyo,http://203.162.235.41:16915
+BS WOWOW,http://203.162.235.41:16916
+BBC World News,http://203.162.235.41:16917
+CNN,http://203.162.235.41:16918
+CNBC,http://203.162.235.41:16919
+G-GOLF NETWORK,http://203.162.235.41:16924
+NHK WORLD,https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+日本 全天新闻;https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+中视,rtmp://59.124.75.150/sat/tv091
+华视,rtmp://59.124.75.150/sat/tv111
+华视,rtmp://59.124.75.150/sat/tv112
+台视,rtmp://59.124.75.150/sat/tv071
+民视,rtmp://59.124.75.150/sat/tv051
+纬来日本,rtmp://59.124.75.150:1935/sat/tv771
+纬来日本,rtmp://59.124.75.150/sat/tv771
+纬来日本,rtmp://59.124.75.150/sat//tv761
+TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
+东森财经新闻,rtmp://59.124.75.150:1935/sat/tv571
+爱尔达体育一,rtmp://59.124.75.150/sat/md011
+ELEVEN体育二台,rtmp://59.124.75.150/sat/md041
+博斯运动二台,rtmp://59.124.75.150/sat/md051
+4民视第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+5民视台湾台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+6民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+9大爱电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+10中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+12华视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+13三立综合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+14客家电视台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+21新唐人亚太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+23ARIRANG阿里郎频道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+30LiveABC互动英语频道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+32ELTV生活英语台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+42MOMO亲子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+49东森购物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+50镜电视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+51东森新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+52华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+53民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+54三立财经新闻iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+55TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+56东森财经新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+57中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+58中天新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+62SBN全球财经台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+69东森购物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+70民视综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+71猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+76中天全民最大党,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+105智林体育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+106时尚运动X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+111民视旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+112滚动力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+113亚洲旅游台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+123中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+125公视戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+126民视影剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+137金光布袋戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+164人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+170半岛国际新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+171VOA美国之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+173DW德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+185国会频道1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
+186国会频道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
+201经典电影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+202经典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+204精选动漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+205华语戏剧台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+206华语综艺台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
